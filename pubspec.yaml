@@ -1,0 +1,19 @@
+name: flutter_slidable_max
+description: A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
+version: 4.0.3
+
+environment:
+  sdk: '>=3.6.0 <4.0.0'
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^0.3.0
+  collection:
+
+flutter:
