@@ -2,6 +2,7 @@
 
 [<img src="https://raw.githubusercontent.com/letsar/flutter_slidable/assets/flutter_favorite.png" width="100" />][flutter_favorite] **Slidable is a [Flutter Favorite][flutter_favorite] package!**
 
+# 技术支持邮箱(1539841933@qq.com)。
 
 # flutter_slidable_max
 
